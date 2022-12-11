@@ -12,7 +12,7 @@
     .galeria{
         width: 300px;
     }
-    .galeria:hoover{
+    .galeria:hover{
         opacity: 0.3;
         cursor: pointer;
     }
